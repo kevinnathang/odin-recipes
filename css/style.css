@@ -1,0 +1,22 @@
+.title {
+    font-family: cursive;
+    color: black;
+    background-color: red;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.recipes-list {
+    background-color: yellow;
+    text-align: center;
+}
+
+.Eggs {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+.empty-plate {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
